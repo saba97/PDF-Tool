@@ -1150,7 +1150,7 @@
   },
   "pdfWorkflow": {
     "name": "ابزار ایجاد گردشکار PDF",
-    "subtitle": "Build custom PDF processing pipelines with a visual node editor.",
+    "subtitle": "با استفاده از یک ویرایشگر گره‌ایِ بصری، خط‌لوله‌های پردازش PDF سفارشی بسازید.",
     "nodes": "گره ها",
     "searchNodes": "جستجوی گره...",
     "run": "اجرا",

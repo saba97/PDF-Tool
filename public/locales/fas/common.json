@@ -59,9 +59,9 @@
     "title": "شروع به استفاده از",
     "toolsLabel": "ابزار",
     "subtitle": "روی یکی از ابزار جهت اپلود فایل خود کلیک کنید",
-    "searchPlaceholder": "(e.g., 'split', 'organize'...)جستجو برای ابزار ",
+    "searchPlaceholder": "جستجو برای ابزار (e.g., 'split', 'organize'...)",
     "backToTools": "بازگشت به ابزارها",
-    "firstLoadNotice": "اولین پردازش کمی زمان میبرد،پس از آن تمامی تنظیمات به سرعت اجام میگیرند"
+    "firstLoadNotice": "اولین پردازش کمی زمان میبرد،پس از آن تمامی تنظیمات به سرعت انجام میگیرند"
   },
   "upload": {
     "clickToSelect": "برای انتخاب فایل کلیک کنید",
@@ -114,8 +114,8 @@
     "processing": "درحال پردازش..."
   },
   "alert": {
-    "title": "Alert",
-    "ok": "OK"
+    "title": "هشدار",
+    "ok": "باشه"
   },
   "preview": {
     "title": "Document Preview",
@@ -230,16 +230,16 @@
     "buyMeCoffee": "Buy Me a Coffee"
   },
   "footer": {
-    "copyright": "© 2026 BentoPDF. All rights reserved.",
-    "version": "Version",
-    "company": "Company",
-    "aboutUs": "About Us",
-    "faqLink": "FAQ",
-    "contactUs": "Contact Us",
-    "legal": "Legal",
-    "termsAndConditions": "Terms and Conditions",
-    "privacyPolicy": "Privacy Policy",
-    "followUs": "Follow Us"
+    "copyright": "© ۲۰۲۶ BentoPDF. تمامی حقوق محفوظ است.",
+    "version": "نسخه",
+    "company": "شرکت",
+    "aboutUs": "درباره ما",
+    "faqLink": "پرسش‌های متداول",
+    "contactUs": "تماس با ما",
+    "legal": "حقوقی",
+    "termsAndConditions": "شرایط و ضوابط",
+    "privacyPolicy": "سیاست حفظ حریم خصوصی"
+    
   },
   "merge": {
     "title": "Merge PDFs",
